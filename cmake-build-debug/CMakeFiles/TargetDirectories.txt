@@ -1,0 +1,3 @@
+D:/C_Programs/C for Git/cmake-build-debug/CMakeFiles/C_for_Git.dir
+D:/C_Programs/C for Git/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C_Programs/C for Git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
